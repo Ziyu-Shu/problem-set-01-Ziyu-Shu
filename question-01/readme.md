@@ -7,9 +7,9 @@ If other researchers are interested in the processed datasets, please contact th
 
 ## Code
 - `main.py` (runs the main results of the paper); 
-- `res_sif.py` (runs all results of the appendix);
-- `ana_add_p.py` (additional analysis main paper);
-- `prep_II_version_3.py` (does all the processing of the data);
+- `appendix.py` (runs all results of the appendix);
+- `additional_analysis.py` (additional analysis main paper);
+- `data_processing.py` (does all the processing of the data);
 
 ## Data
 - `survey_raw_data.csv` (raw data);
